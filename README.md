@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1 OLUWANIFEMI GLORIOUS GOSPEL MUSIC INTERNATIONAL
-## Header 2
+## Header 2 MUSIC
 ### Header 3
 
 - Bulleted
